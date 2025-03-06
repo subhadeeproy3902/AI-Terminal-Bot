@@ -10,10 +10,6 @@
 ✅ **Optimized String Processing** – Efficient parsing and formatting of AI responses  
 ✅ **Lightweight & Fast** – Built entirely in C for performance
 
-## Demo
-
-<video controls src="demo.mp4" title="Title"></video>
-
 ## 🛠️ Installation & Usage  
 
 ### 1️⃣ Prerequisites
