@@ -8,7 +8,11 @@
 ✅ **cURL for HTTP Requests** – Handles API communication seamlessly  
 ✅ **Interactive Chat Interface** – Smooth user experience in the terminal  
 ✅ **Optimized String Processing** – Efficient parsing and formatting of AI responses  
-✅ **Lightweight & Fast** – Built entirely in C for performance  
+✅ **Lightweight & Fast** – Built entirely in C for performance
+
+## Demo
+
+<video controls src="demo.mp4" title="Title"></video>
 
 ## 🛠️ Installation & Usage  
 
