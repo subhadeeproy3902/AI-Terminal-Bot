@@ -4,7 +4,7 @@
 
 ## News 🥳
 
-The AI chatbot in C also known as Termbot has its new home: [termbot.starnix.in](https://termbot-subhadeep.starnix.in). A big thanks to Starnix Cloud and [Ayush Ghosal](https://github.com/Ayush786113) for providing the deployment.
+The AI chatbot in C also known as Termbot has its new home: [Termbot Home](https://termbot-subhadeep.starnix.in). A big thanks to Starnix Cloud and [Ayush Ghosal](https://github.com/Ayush786113) for providing the deployment.
 
 To use it:
 
