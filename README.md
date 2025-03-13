@@ -10,8 +10,7 @@ To use it:
 
 - Username: user
 - Password: user
-
-`Run termbot in the shell`
+- Run `termbot` in the shell
 
 ## 📌 Features
 
