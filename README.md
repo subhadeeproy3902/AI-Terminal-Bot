@@ -2,7 +2,7 @@
 
 🚀 **A lightweight and efficient AI chatbot built in C**, leveraging **cURL** to interact with the **Groq API** for AI-generated responses. This project explores AI development in a low-level programming environment, integrating real-time conversation capabilities into a **terminal-based chatbot**.
 
-## News 
+## News 🥳
 
 The AI chatbot in C also known as Termbot has its new home: [termbot.starnix.in](https://termbot-subhadeep.starnix.in). A big thanks to Starnix Cloud and [Ayush Ghosal](https://github.com/Ayush786113) for providing the deployment.
 
