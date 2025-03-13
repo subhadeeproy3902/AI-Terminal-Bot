@@ -6,6 +6,13 @@
 
 The AI chatbot in C also known as Termbot has its new home: [termbot.starnix.in](https://termbot-subhadeep.starnix.in). A big thanks to Starnix Cloud and [Ayush Ghosal](https://github.com/Ayush786113) for providing the deployment.
 
+To use it:
+
+- Username: user
+- Password: user
+
+`Run termbot in the shell`
+
 ## 📌 Features
 
 ✅ **Groq API Integration** – Fetches AI-generated responses dynamically  
